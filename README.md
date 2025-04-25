@@ -1,6 +1,6 @@
 # Toxic Comments Classification
 
-Project for DAT255 - Deep Learning at HVL  
+Project for DAT255 - Deep Learning Engineering at HVL  
 This project uses a BERT model to classify online comments as either toxic or non-toxic. The model was trained on a balanced subset of the Civil Comments dataset.
 
 🔗 Link to live Gradio app:  
